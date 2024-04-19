@@ -13,4 +13,4 @@ The code “comparison_growth_models_us_up_uk” fits the nine growth models sho
 
 To reproduce all figures reporting results of model fitting for the US-UP-UK datasets in the manuscript, do the following:
 1.	Open the data file “us_up_uk_analysis_results.mat”.
-2.	Run the codes “figure_codes_published.m” to reproduce figures in the main text of the manuscript and run the code “figure_codes_supplement_published.m” to reproduce figures in the supplementary text of the manuscript.
+2.	Run the code “figure_codes_published.m” to reproduce figures in the main text of the manuscript and run the code “figure_codes_supplement_published.m” to reproduce figures in the supplementary text of the manuscript.
