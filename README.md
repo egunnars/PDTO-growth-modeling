@@ -21,7 +21,7 @@ To reproduce the results of model fitting for the US-GFP dataset reported in the
 1.	Open the data file “data_usgfp.mat”.
 2.	Run the code “comparison_growth_models_usgfp.m”.
 
-## Reproduce figures for US-UP-UK data
+## Reproduce figures for US-GFP data
 
 To reproduce all figures reporting results of model fitting for the US-GFP in the manuscript, do the following:
 1.	Open the data file "usgfp_analysis_results.mat”.
