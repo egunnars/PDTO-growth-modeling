@@ -26,3 +26,11 @@ To reproduce the results of model fitting for the US-GFP dataset reported in the
 To reproduce all figures reporting results of model fitting for the US-GFP in the manuscript, do the following:
 1.	Open the data file "usgfp_analysis_results.mat”.
 2.	Run the code “figure_codes_usgfp.m” to reproduce US-GFP figures in the supplementary text of the manuscript.
+
+## Fit growth models to new data
+
+Two codes are provided to fit the growth models of the paper to a new dataset.
+
+In the first code, "comparison_growth_models_new_data_with_tau.m", the user is expected to supply a data matrix where each row corresponds to time series data for a single organoid. The user is also expected to provide an initial organoid size, which is assumed to be the same for all organoids. In this code, all models include the starting time parameter tau as described in the accompanying manuscript. Further instructions are given in comments within the code.
+
+In the second code, "comparison_growth_models_new_data_without_tau.m", the starting time parameter tau is not included. The user supplies a data matrix where each row corresponds to time series data for a single organoid, and the data in the first column corresponds to the initial size of each organoid. Further instructions are given in comments within the code.
