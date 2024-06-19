@@ -1,6 +1,6 @@
 # PDTO-growth-modeling
 
-This repository holds codes used to produce numerical and graphical results reported in the manuscript “Understanding patient-derived tumor organoid growth through an integrated imaging and mathematical modeling framework”. The codes are written in MATLAB. 
+This repository holds raw images and codes used to produce numerical and graphical results reported in the manuscript “Understanding patient-derived tumor organoid growth through an integrated imaging and mathematical modeling framework”. The codes are written in MATLAB. 
 
 ## Image and spreadsheet data
 
